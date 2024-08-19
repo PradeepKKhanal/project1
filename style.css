@@ -17,3 +17,7 @@ div{
 div{
     border: 2px;
 }
+
+div{
+    display: flex;
+}
